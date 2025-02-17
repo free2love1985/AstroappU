@@ -1,2 +1,0 @@
-# AstroappU
-Astro app
